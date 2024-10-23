@@ -4,7 +4,7 @@ ____________________________________________________________________
 
 pkg update -y && pkg upgrade y
 
-pkg install python y
+pkg install python3 y
 
 pip install time
 
@@ -20,6 +20,6 @@ git clone https://github.com/MRTACO666/DDos-/tree/main
 
 cd DDosBos
 
-python DDosBos.py
+python3 DDosBos.py
 
 ____________________________________________________________________
